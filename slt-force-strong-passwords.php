@@ -43,7 +43,7 @@ define( 'FSP_PLUGIN_VERSION', $plugin_data['Version'] );
  *
  * @since       1.3
  */
-define( 'SLT_FSP_USE_ZXCVBN', version_compare( round( $wp_version, 1 ), '3.7' ) >= 0 );
+define( 'SLT_FSP_USE_ZXCVBN', version_compare( round( (float) $wp_version, 1 ), '3.7' ) >= 0 );
 
 if ( ! defined( 'SLT_FSP_CAPS_CHECK' ) ) {
 	/**
