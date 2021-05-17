@@ -3,7 +3,7 @@
  * Plugin Name:  Force Strong Passwords
  * Plugin URI:   https://github.com/boogah/force-strong-passwords/
  * Description:  Forces privileged users to set a strong password.
- * Version:      1.8.0
+ * Version:      1.8.1
  * Author:       Jason Cosper
  * Author URI:   http://jasoncosper.com/
  * License:      GPLv3
@@ -14,7 +14,7 @@
  * @link         https://jasoncosper.com/
  * @package      WordPress
  * @author       Jason Cosper
- * @version      1.8.0
+ * @version      1.8.1
  */
 
 global $wp_version;
